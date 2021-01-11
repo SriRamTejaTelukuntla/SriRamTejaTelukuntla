@@ -1,4 +1,4 @@
-## 👋 Hey Guys! </br> I am Sri Ram Teja 
+# 👋 Hey Guys! </br> I am Sri Ram Teja 
 
 I'm a UX, UI Designer who is passionate about designing aesthetically pleasing and better user experience interfaces to solve user needs.
 
